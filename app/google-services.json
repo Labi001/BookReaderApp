@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138863800823",
+    "project_id": "readingapp-14b03",
+    "storage_bucket": "readingapp-14b03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138863800823:android:34a5d1cb26ec95da4a7ef2",
+        "android_client_info": {
+          "package_name": "com.labinot.bajrami.bookreaderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazCOhYz8h97p83uH1RCVt2uahwSc5V_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
